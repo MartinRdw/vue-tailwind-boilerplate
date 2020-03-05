@@ -11,7 +11,14 @@
           >
         </h1>
       </div>
-      <div class="p-4 text-right"><a class="text-gray-800 hover:text-teal-600 font-light" href="#">clone me on github</a></div>
+      <div class="p-4 text-right">
+        <a
+          href="https://github.com/MartinRdw/vue-tailwind-boilerplate"
+          target="_blank"
+          class="text-gray-800 hover:text-teal-600 font-light"
+          >clone me on github</a
+        >
+      </div>
     </div>
   </div>
 </template>
